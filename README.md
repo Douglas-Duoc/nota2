@@ -2,7 +2,7 @@
 
 - La siguiente imagen en Docker, nos permitirá tener un sitio Wordpress disponible y listo para su uso, esto es basado en la ultima version de Wordpress 2023, en una instancia EC2 amazon linux. 
 
-##Como usar esta imagen
+## Como usar esta imagen
 
 - Comenzamos por asignar el siguiente comando para poder obtener nuestra imagen: 
 
