@@ -18,3 +18,5 @@
 
 - Podremos verificar con el siguiente comando las imagenes de nuestra maquina
 >> docker images
+
+### Tambien a modo de informacion, tenemos los archivos de configuracion de nuestro sitio, a disposicion. 
