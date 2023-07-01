@@ -6,13 +6,13 @@
 
 - Comenzamos por asignar el siguiente comando para poder obtener nuestra imagen: 
 
->>"docker pull douglas96/sitio:nombre_a_asignar"
+>>"docker pull douglas96/sitio:nota2"
 >>>Recordar Que Debemos De Tener Instalado En Nuestra Maquina, el Lenguaje de "Docker"
 - Esto descargará la imagen "douglas96/sitio" con la etiqueta asignada en tu sistema local.
 
 ###### Una vez que la imagen se haya descargado, puedes ejecutar un contenedor utilizando el siguiente comando.
 
->> docker run -d -p 80:80 douglas96/sitio:nombre_asignado
+>> docker run -d -p 80:80 douglas96/sitio:nota2
 
 - Esto ejecutará un contenedor a partir de la imagen descargada y mapeará el puerto 80 del contenedor al puerto 80 del host. Ahora puedes acceder al sitio web en tu navegador visitando http://localhost.
 
